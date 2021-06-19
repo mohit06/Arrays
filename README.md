@@ -10,3 +10,9 @@
 11 33 22 12 17
 ## Output
 Max: 33 Min :11
+# Find Kth Max and Min from Array
+## Input
+8 3\
+11 22 33 13 17 88 23 45
+## Output
+3th Max: 33 3th Min :17
