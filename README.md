@@ -16,3 +16,8 @@ Max: 33 Min :11
 11 22 33 13 17 88 23 45
 ## Output
 3th Max: 33 3th Min :17
+# Sort the array of 0,1,2 without using any sorting algo
+## Input
+010120201212
+## Output
+000011112222
