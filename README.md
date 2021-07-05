@@ -21,3 +21,9 @@ Max: 33 Min :11
 010120201212
 ## Output
 000011112222
+# Move all the negative elements to one side of the array
+## Input
+5\
+-8 99 89 -1 -3
+## Output
+-8 -1 -3 99 89 
