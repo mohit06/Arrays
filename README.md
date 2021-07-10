@@ -27,3 +27,11 @@ Max: 33 Min :11
 -8 99 89 -1 -3
 ## Output
 -8 -1 -3 99 89 
+# Union and Intersection of two sorted arrays
+## Input
+6 4\
+1 2 3 4 5 5\
+2 4 5 6 
+## Output
+[1, 2, 2, 3, 4, 4, 5, 5, 5, 6]\
+[2, 4, 5, 5]
