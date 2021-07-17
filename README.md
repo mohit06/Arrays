@@ -47,5 +47,5 @@ Max: 33 Min :11
 -11 12 13 -17 21 44 -19
 ## Output
 Maximum sub-Array sum is 73\
-The sub-Array with maximum sum is:\ 
+The sub-Array with maximum sum is:
 12 13 -17 21 44 
